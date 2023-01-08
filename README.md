@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RSFritsch
 - 👀 I’m interested in learn and develop myself
-- 🌱 I’m currently learning about Python, english and spanish
-- 💞️ I’m looking to collaborate on projects focused on designing and analyzing databases
+- 🌱 I’m currently learning about Python, HTML, CSS and Java-Script
+- 💞️ I’m looking to collaborate on projects focused on front-end and analyzing databases
 - 📫 You can find me on discord by searching the name in the sequence: < Renatschenha#1321 >
 
 <!---
